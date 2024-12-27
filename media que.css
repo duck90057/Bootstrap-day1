@@ -1,0 +1,14 @@
+div{
+    background-color: aquamarine;
+}
+@media only screen and(max-width; 320px {
+    div {
+        background-color: bisque;
+    }
+}
+@media only screen and(max-width; 768p {
+    div {
+        background-color:blueviolet;
+    }
+}
+    

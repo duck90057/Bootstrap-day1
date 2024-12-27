@@ -1,0 +1,19 @@
+.Join-btn {
+    background-color:rgb(88, 86, 86);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    opacity: 0.8;
+
+}
+.Join-btn:hover {
+    background-color: lightgrey;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border:none;
+    opacity: 1;
+    cursor: pointer;
+}

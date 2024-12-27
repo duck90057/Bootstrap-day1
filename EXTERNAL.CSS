@@ -1,0 +1,15 @@
+h5 {
+    background-color: aqua;font: bolder;
+ } 
+
+ .heading-1{
+    background-color: grey;font-style: italic;
+ }
+ #heading-2{
+    font-size: medium;background-color: aquamarine;
+ }
+
+ h6
+ {
+    background-color: bisque;font-size: large;
+}
